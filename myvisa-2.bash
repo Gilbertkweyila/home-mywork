@@ -1,0 +1,2 @@
+echo "Jesus is lord"
+
